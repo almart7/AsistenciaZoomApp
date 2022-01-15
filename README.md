@@ -13,3 +13,7 @@ Descargar AsistenciaZoomWin.zip, descomprimir y doble click en el archivo .exe p
 No mover ningún archivo de dentro de la carpeta.
 
 Seguir los pasos indicados en la aplicación en el orden mencionado.
+
+
+*Atribuciones* 
+<a href="https://www.flaticon.com/free-icons/laptop" title="laptop icons">Laptop icons created by Freepik - Flaticon</a>
