@@ -10,6 +10,8 @@ Si la reunión ha durado 50 minutos, seleccionar 40 minutos en la app para inclu
 Descargar AsistenciaZoomWin.zip, descomprimir y doble click en el archivo .exe para ejecutar.
 No mover ningún archivo de dentro de la carpeta.
 
+Antes del primer uso, es posible que el antivirus lance un warning. Dejar que lo analice y continuar con normalidad.
+
 Seguir los pasos indicados en la aplicación en el orden mencionado.
 
 
